@@ -1,1 +1,1 @@
-web: cd "Yakuza bot" && python main.py
+web: python "Yakuza bot/main.py"
